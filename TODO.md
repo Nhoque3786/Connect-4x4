@@ -9,12 +9,12 @@ This is the Todo list for this project. Since it's on a early state, some stuff 
 ## Coding:
 - [x] Sprite test screen
 - [ ] Menu
-  
-  ### Modes:
-  - [ ] Classic
-  - [ ] Times 2
-  - [ ] Times 3
-  - [ ] Times 4
+
+### Modes:
+- [ ] Classic
+- [ ] Times 2
+- [ ] Times 3
+- [ ] Times 4
 
 ## Sounds and Music:
 - [ ] Drop Piece
