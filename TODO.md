@@ -7,8 +7,18 @@ This is the Todo list for this project. Since it's on a early state, some stuff 
 - [ ] Player Eyes tilemap (and titleset)
 
 ## Coding:
+- [ ] UI
+- [ ] Gameplay
+- [ ] Singleplayer (bots)
+- [ ] Multiplayer (Offline)
+- [ ] Multiplayer (Online) (**!!Hard!!**)
+- [ ] Settings
+- [ ] Achiviments (For NG)
+
+### Screens:
 - [x] Sprite test screen
 - [ ] Menu
+- [ ] Board
 
 ### Modes:
 - [ ] Classic
@@ -20,7 +30,7 @@ This is the Todo list for this project. Since it's on a early state, some stuff 
 - [ ] Drop Piece
 - [ ] Button Click
 - [ ] Win
-- [ ] Music
+- [ ] Music (**!!Hard!!** Ask someone for help, perhaps?)
 
 ## Final Steps
 - [ ] Make the final touches
