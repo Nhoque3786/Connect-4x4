@@ -1,0 +1,24 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Build + Debug",
+			"type": "lime",
+			"request": "launch",
+			"program": "${workspaceRoot}/export/windows/bin/Project.exe"
+		},
+		{
+			"name": "Debug",
+			"type": "lime",
+			"request": "launch",
+			"preLaunchTask": null,
+			"program": "${workspaceRoot}/export/windows/bin/Project.exe"
+		},
+		{
+			"name": "Macro",
+			"type": "haxe-eval",
+			"request": "launch",
+			"program": "${file}"
+		}
+	]
+}
