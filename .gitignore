@@ -1,0 +1,7 @@
+# Ignore export folder
+export/
+
+# Additional common Haxe/OpenFL ignores
+*.log
+*.swp
+.DS_Store
